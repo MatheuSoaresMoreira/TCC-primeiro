@@ -1,0 +1,28 @@
+@import url(./Tudo.css);
+
+main {
+    background: var(--Fundo-um);
+    color: white;
+}
+
+.textoobj {
+    font-size: 3.125rem;
+    width: 81.4375rem;
+    height: 38.1875rem;
+    display: flex;
+    align-items: center;
+    padding: 0rem 4.25rem 4rem 4.25rem;
+    margin-top: 2rem;
+}
+
+.imgzitche {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7.625rem 0rem 3.625rem 0rem;
+}
+
+.figzitche img{
+    width: 65.625rem;
+    height: 38.1875rem;
+}

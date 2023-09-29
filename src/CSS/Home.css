@@ -1,0 +1,89 @@
+@import url(./Tudo.css);
+
+.titulo {
+    font-family: 'Passion One', cursive;
+    font-size: 4rem;
+}
+
+main {
+    font-family: 'Salsa', cursive;
+    color: white;
+}
+
+#fundoum {
+    background: var(--Fundo-um);
+    height: 55.1875rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.separar {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    width: 33.875rem;
+    height: 50.6875rem;
+    text-align: justify;
+}
+
+.texto h2 {
+    margin-bottom: .0625rem;
+}
+
+.texto p {
+    font-size: 2.375rem;
+}
+
+#imagemum {
+    background: url(../img/img_Index/logo.png);
+    width: 30.25rem;
+    height: 31.5625rem;
+}
+
+#fundodois {
+    background: var(--Fundo-dois);
+    height: 55.1875rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagemdois {
+    background: url(../img/img_Index/morango.png);
+    width: 28.3125rem;
+    height: 26.8125rem;
+}
+
+#fundotres {
+    background: var(--Fundo-um);
+    height: 77.0625rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagemtres {
+    background: url(../img/img_Index/circuito.png);
+    background-position: center;
+    background-size: contain;
+    width: 28.3125rem;
+    height: 26.8125rem;
+}
+
+.texto2 {
+    width: 33.875rem;
+    height: 75.6875rem;
+    text-align: justify;
+}
+
+.texto2 h2 {
+    margin-bottom: .0625rem;
+}
+
+.texto2 p {
+    font-size: 2.375rem;
+}

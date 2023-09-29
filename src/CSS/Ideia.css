@@ -1,0 +1,142 @@
+@import url(./Tudo.css);
+
+.base {
+    height: 56.25rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 5.375rem 4.25rem 0rem 0rem;
+    text-align: justify;
+}
+
+p {
+    font-size: 2.5rem;
+}
+
+.base h1 {
+    font-family: 'Passion One', cursive;
+    font-size: 3.75rem;
+    margin-bottom: 3.3125rem;
+}
+
+.base img {
+    width: 27.5621rem;
+    height: 27.5621rem;
+}
+
+.base1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.base2 {
+    width: 50%;
+}
+
+.blcestufa {
+    height: 25.25rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 5rem 0rem 5rem 0rem;
+    text-align: justify;
+    background: var(--Fundo-dois);
+}
+
+.blcestufa img {
+    height: 21rem;
+    width: 35.75rem;
+}
+
+.estufa1 {
+    width: 50%;
+}
+
+.estufa2 {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+
+.blcvaso {
+    height: 22rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 5rem 0rem 3.3rem 0rem;
+    text-align: justify;
+}
+
+.blcvaso img {
+    width: 16.8125rem;
+    height: 18.6875rem;
+}
+
+.vaso1 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vaso2 {
+    width: 50%;
+    display: flex;
+}
+
+.blcplanta {
+    height: 38.0625rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 4rem 0rem 0rem 0rem;
+    text-align: justify;
+    background: var(--Fundo-dois);
+}
+
+.blcplanta img {
+    width: 28.625rem;
+    height: 30.4375rem;
+}
+
+.blcplanta p {
+    width: 43.875rem;
+}
+
+.planta1 {
+    width: 50%;
+}
+
+.planta2 {
+    width: 50%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.blcmorango {
+    height: 41.8125rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 4rem 3.8125rem 0rem 0rem;
+    text-align: justify;
+}
+
+.blcmorango img {
+    width: 27.25rem;
+    height: 32.9375rem;
+}
+
+.morango1 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.morango2 {
+    width: 50%;
+}

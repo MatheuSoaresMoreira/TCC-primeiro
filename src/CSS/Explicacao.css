@@ -1,0 +1,64 @@
+@import url(./Tudo.css);
+
+.titulos {
+    font-family: 'Passion One', cursive;
+    font-size: 62px;
+}
+
+.explicacao {
+    display: flex;
+    flex-direction: row;
+    padding: 3.3125rem 7.5625rem 2.9375rem 1.4375rem;
+    height: 89.75rem;
+    justify-content: space-between;
+}
+
+.explicacao p {
+    font-size: 38px;
+    text-align: justify;
+}
+
+#texto-img {
+    width: 26.6875rem;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 4.3125rem;
+}
+
+#texto-img h1 {
+    margin-bottom: 7.375rem;
+}
+
+.fontes {
+    background: var(--Fundo-dois);
+    height: 27.75rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.text-font {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-site {
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 6rem;
+}
+
+.videos {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.videos a, .site a {
+    color: white;
+}
