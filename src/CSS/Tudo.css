@@ -17,32 +17,10 @@
   --Texto-Rodape: #F7F6EE;
   --Verde-desenvolvedores: #666B51;
   --Verde-Mobile: #F6F4D2;
+  --Fonte-Cabecalho-Cel: #40672D;
 }
 
 main {
   font-family: 'Salsa', cursive;
   text-decoration: none;
-}
-
-footer {
-  font-family: 'Passion One', cursive;
-  font-weight: 100;
-  font-size: 36px;
-  display: flex;
-  height: 12rem;
-  background: var(--Verde-rodape);
-  justify-content: end;
-  align-items: center;
-  padding: 1.0625rem 0.78125rem;
-}
-
-.texto-img {
-  width: 33.5625rem;
-  height: 10.4375rem;
-  align-items: center;
-  display: flex;
-  flex-direction: row;
-  gap: 2.0625rem;
-  justify-content: end;
-  color: var(--Texto-Rodape);
 }

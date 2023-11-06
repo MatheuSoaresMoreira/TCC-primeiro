@@ -33,13 +33,13 @@ main {
 }
 
 .imgs img {
-    height: 25rem;
+    height: 28vw;
     margin: 1.125rem 0rem;
 }
 
 .blocoum a {
     color: white;
     font-weight: bold;
-    font-size: 55px;
+    font-size: 5vw;
     text-decoration: underline;
 }

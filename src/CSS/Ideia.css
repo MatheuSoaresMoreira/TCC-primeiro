@@ -1,27 +1,27 @@
 @import url(./Tudo.css);
 
 .base {
-    height: 56.25rem;
+    height: 70vw;
     width: 100%;
     display: flex;
     flex-direction: row;
-    padding: 5.375rem 4.25rem 0rem 0rem;
+    padding: 5vw 4vw 0rem 0rem;
     text-align: justify;
 }
 
 p {
-    font-size: 2.5rem;
+    font-size: 3vw;
 }
 
 .base h1 {
     font-family: 'Passion One', cursive;
-    font-size: 3.75rem;
-    margin-bottom: 3.3125rem;
+    font-size: 5vw;
+    margin-bottom: 3vw;
 }
 
 .base img {
-    width: 27.5621rem;
-    height: 27.5621rem;
+    width: 30vw;
+    height: 30vw;
 }
 
 .base1 {
@@ -37,18 +37,19 @@ p {
 }
 
 .blcestufa {
-    height: 25.25rem;
+    height: 32vw;
     width: 100%;
     display: flex;
     flex-direction: row;
-    padding: 5rem 0rem 5rem 0rem;
+    padding: 5vw 0rem 5vw 0rem;
     text-align: justify;
     background: var(--Fundo-dois);
 }
 
 .blcestufa img {
-    height: 21rem;
-    width: 35.75rem;
+    height: 21vw;
+    width: 35.75vw;
+    margin-right: 2vw;
 }
 
 .estufa1 {
@@ -62,17 +63,17 @@ p {
 }
 
 .blcvaso {
-    height: 22rem;
+    height: 28vw;
     width: 100%;
     display: flex;
     flex-direction: row;
-    padding: 5rem 0rem 3.3rem 0rem;
+    padding: 5vw 5vw 4vw 0rem;
     text-align: justify;
 }
 
 .blcvaso img {
-    width: 16.8125rem;
-    height: 18.6875rem;
+    width: 22vw;
+    height: 24vw;;
 }
 
 .vaso1 {
@@ -88,22 +89,22 @@ p {
 }
 
 .blcplanta {
-    height: 38.0625rem;
+    height: 45vw;
     width: 100%;
     display: flex;
     flex-direction: row;
-    padding: 4rem 0rem 0rem 0rem;
+    padding: 4vw 0rem 0rem 2vw;
     text-align: justify;
     background: var(--Fundo-dois);
 }
 
 .blcplanta img {
-    width: 28.625rem;
-    height: 30.4375rem;
+    width: 34vw;
+    height: 36vw;
 }
 
 .blcplanta p {
-    width: 43.875rem;
+    width: 50vw;
 }
 
 .planta1 {
@@ -118,17 +119,17 @@ p {
 }
 
 .blcmorango {
-    height: 41.8125rem;
+    height: 50vw;
     width: 100%;
     display: flex;
     flex-direction: row;
-    padding: 4rem 3.8125rem 0rem 0rem;
+    padding: 4vw 3vw 0rem 0rem;
     text-align: justify;
 }
 
 .blcmorango img {
-    width: 27.25rem;
-    height: 32.9375rem;
+    width: 34vw;
+    height: 38vw;
 }
 
 .morango1 {

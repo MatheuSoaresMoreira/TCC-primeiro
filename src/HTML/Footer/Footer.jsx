@@ -10,8 +10,8 @@ function Footer() {
         <footer>
           <div className={styles.texto_img}>
             <h2>PDF DO PROJETO</h2>
-
-            <img src={Empresa} alt="" width={178} height={167} />
+            
+            <img src={Empresa} alt=""/>
           </div>
         </footer>
     )

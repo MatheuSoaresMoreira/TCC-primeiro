@@ -2,7 +2,7 @@
 
 .titulo {
     font-family: 'Passion One', cursive;
-    font-size: 4rem;
+    font-size: 5vw;
 }
 
 main {
@@ -12,7 +12,7 @@ main {
 
 #fundoum {
     background: var(--Fundo-um);
-    height: 55.1875rem;
+    height: 60vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,8 +25,9 @@ main {
 }
 
 .texto {
-    width: 33.875rem;
-    height: 50.6875rem;
+    width: 100%;
+    height: 100%;
+    padding-left: 1vw;
     text-align: justify;
 }
 
@@ -35,32 +36,54 @@ main {
 }
 
 .texto p {
-    font-size: 2.375rem;
+    font-size: 2.5vw;
+}
+
+.texto3 {
+    width: 100%;
+    height: 100%;
+    padding-right: 1.5vw;
+    text-align: justify;
+}
+
+.texto3 h2 {
+    margin-bottom: .0625rem;
+}
+
+.texto3 p {
+    font-size: 2.5vw;
 }
 
 #imagemum {
     background: url(../img/img_Index/logo.png);
-    width: 30.25rem;
-    height: 31.5625rem;
+    width: 40vw;
+    height: 40vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 #fundodois {
     background: var(--Fundo-dois);
-    height: 55.1875rem;
+    height: 60vw;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 1vw;
 }
 
 #imagemdois {
     background: url(../img/img_Index/morango.png);
-    width: 28.3125rem;
-    height: 26.8125rem;
+    width: 40vw;
+    height: 40vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 #fundotres {
     background: var(--Fundo-um);
-    height: 77.0625rem;
+    height: 65vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,15 +91,17 @@ main {
 
 #imagemtres {
     background: url(../img/img_Index/circuito.png);
+    width: 40vw;
+    height: 40vw;
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
-    width: 28.3125rem;
-    height: 26.8125rem;
+    background-size: cover;
 }
 
 .texto2 {
-    width: 33.875rem;
-    height: 75.6875rem;
+    width: 100%;
+    height: 100%;
+    padding-left: 1.5vw;
     text-align: justify;
 }
 
@@ -85,5 +110,5 @@ main {
 }
 
 .texto2 p {
-    font-size: 2.375rem;
+    font-size: 2.5vw;
 }

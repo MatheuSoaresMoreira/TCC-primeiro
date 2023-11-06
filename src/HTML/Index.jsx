@@ -29,7 +29,7 @@ function Index() {
               <div id='imagemdois'></div>
             </div>
             <div className='separar'>
-              <div className='texto'>
+              <div className='texto3'>
                 <h2 className='titulo'>Cultivo</h2>
                 <p>Saiba que a época certa para o plantio é no fim do verão até o final do outono, porém com nossa estufa esse cultivo pode ser feito em qualquer  estação do ano, pois ela conta com um sistema de climatização,  e se for preciso, ativa o sistema de aclimatação, abaixando ou aumetando a temperatura um sistema para adquirir informações da umidade do solo, e caso necessario ativa o sistema de irrigação. </p>
               </div>
