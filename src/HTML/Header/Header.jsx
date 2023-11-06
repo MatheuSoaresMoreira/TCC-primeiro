@@ -38,8 +38,8 @@ function Header() {
                 <div className={`menu ${abrirFechar == true ? "" : "close"}`}>
                     <nav>
                         <ul>
-                            <li><a href={'/'}>Tela Inicial</a></li>
-                            <li><a href={'/ideia'}>Ideia</a></li>
+                            <li><Link href={'/'}>Tela Inicial </Link>/</li>
+                            <li><Link href={'/ideia'}>Ideia</Link></li>
                             <li><a href={'/objetivo'}>Objetivo</a></li>
                             <li><a href={'/explicacao'}>Explicação</a></li>
                             <li><a href={'/equipamentos'}>Equipamentos</a></li>
